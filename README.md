@@ -1,4 +1,4 @@
-# Project 1
+# Project 1   [Live Link](https://fs-js-project-1.vercel.app)
 
 - Skills Gained in this project
 
@@ -14,4 +14,7 @@
 
 - 8 hours taken to complete it .
 
+Scrrenshot
+
+![trend image](screenshot/restaurant.png)
 
