@@ -14,7 +14,8 @@
 
 - 8 hours taken to complete it .
 
-Scrrenshot
+Screenshot
+
 
 ![trend image](screenshot/trend.png)
 
