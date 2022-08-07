@@ -16,5 +16,5 @@
 
 Scrrenshot
 
-![trend image](screenshot/restaurant.png)
+![trend image](screenshot/trend.png)
 
