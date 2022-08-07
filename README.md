@@ -14,6 +14,4 @@
 
 - 8 hours taken to complete it .
 
-**Screenshot**
 
-! [Trend] (screenshot/trend.png)
